@@ -1,22 +1,22 @@
 {
-  "name": "image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel",
+  "name": "image-gallery-simple-lightbox-video-playback-form-local-storage-parcel",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AlenkaNahorna.github.io/image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel",
+  "homepage": "https://AlenkaNahorna.github.io/image-gallery-simple-lightbox-video-playback-form-local-storage-parcel",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel/"
+    "build": "parcel build src/*.html --public-url /image-gallery-simple-lightbox-video-playback-form-local-storage-parcel/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlenkaNahorna/image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel.git"
+    "url": "git+https://github.com/AlenkaNahorna/image-gallery-simple-lightbox-video-playback-form-local-storage-parcel.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlenkaNahorna/image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel/issues"
+    "url": "https://github.com/AlenkaNahorna/image-gallery-simple-lightbox-video-playback-form-local-storage-parcel/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
