@@ -1,22 +1,22 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AlenkaNahorna.github.io/goit-js-hw-08",
+  "homepage": "https://AlenkaNahorna.github.io/image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlenkaNahorna/goit-js-hw-08.git"
+    "url": "git+https://github.com/AlenkaNahorna/image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlenkaNahorna/goit-js-hw-08/issues"
+    "url": "https://github.com/AlenkaNahorna/image-gallery-SimpleLightbox-Video-playback-Feedback-form-localStorage-lodash.throttle-parcel/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
